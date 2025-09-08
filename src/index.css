@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.light {
+  background-color: #f9fafb;
+  color: #000;
+}
+
+.dark {
+  background-color: #121212;
+  color: #fff;
+}
+
+button {
+  cursor: pointer;
+}
+
+input {
+  font-size: 14px;
+}
